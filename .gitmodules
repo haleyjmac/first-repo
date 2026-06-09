@@ -1,0 +1,3 @@
+[submodule "second-repo"]
+	path = second-repo
+	url = https://github.com/haleyjmac/second-repo.git
